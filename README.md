@@ -3,7 +3,7 @@ fibonacci but ✨*fast*✨
 ![screw everything](fibonacciFast2/igiveup.jpeg)
 I have become a real hacker
 
-Download the `exe` file from `Releases` and run
+Download the `exe` file from `Releases` and run. The `exe` file will generate a file called `fibonacci.txt` (I think I don't remember). The n<sub>th<sub> term is written in the `txt` file.
 
 Code is ⬆️ like usual
 
