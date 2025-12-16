@@ -1,2 +1,2 @@
 # fibonacciFAST
-fibonacci but ✨fast✨
+fibonacci but ✨*fast*✨
