@@ -1,0 +1,2 @@
+# fibonacciFAST
+fibonacci but ✨fast✨
