@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/me/Coding/Fibonacci but fast/out/build/Clang",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Fibonaccibutfast.dir/fibonacciFast2.cpp.o -c \"/home/me/Coding/Fibonacci but fast/fibonacciFast2.cpp\"",
+  "file": "/home/me/Coding/Fibonacci but fast/fibonacciFast2.cpp",
+  "output": "CMakeFiles/Fibonaccibutfast.dir/fibonacciFast2.cpp.o"
+}
+]

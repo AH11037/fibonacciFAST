@@ -1,0 +1,3 @@
+/home/me/Coding/Fibonacci but fast/out/build/Clang/CMakeFiles/Fibonaccibutfast.dir
+/home/me/Coding/Fibonacci but fast/out/build/Clang/CMakeFiles/edit_cache.dir
+/home/me/Coding/Fibonacci but fast/out/build/Clang/CMakeFiles/rebuild_cache.dir
