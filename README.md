@@ -3,7 +3,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![Time Complexity](https://img.shields.io/badge/Time%20Complexity-O(log%20n)-green)
 ![Boost](https://img.shields.io/badge/Boost-header--only-orange)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
 Did you think the other Fibonacci program was slow?<br> 
 Did you want a faster n<sup>th</sup> term finder?<br>
